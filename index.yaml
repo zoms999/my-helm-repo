@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-09-21T12:58:29.974663994Z"
+entries:
+  mynginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-21T13:28:31.491491202Z"
+    description: A Helm chart for Kubernetes
+    digest: 15dcf85f8896f4d5b2181574cbd0b15e70e17af410477a081f99553f5314393c
+    name: mynginx
+    type: application
+    urls:
+    - https://zoms999.github.io/my-helm-repo/mynginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-21T13:28:31.48580172Z"
